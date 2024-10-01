@@ -10,7 +10,7 @@ var prizeKey = "prize";
 var prizeValue = ["normal"];
 
 // 集章網址
-var WebsiteURL = "https://reno30119.github.io/TestPoint/";
+var WebsiteURL = "https://2024tie-sustainability.com/";
 //#endregion
 
 //#region - USER DATA -
